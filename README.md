@@ -1,7 +1,8 @@
 # TuComunidad-Grupo16
 Bienvenido al repositorio de código compartido del proyecto TuComunidad del grupo 16 de la asignatura ISST 2021-2022.
 
-Aquí encontrarás el código correspondiente al frontend y al backend de nuestro proyecto.
+Aquí encontrarás el código correspondiente al frontend y al backend de nuestro proyecto.  
+
 El frontend está hecho con React y el backend con SpringBoot (Java).
 
 ## Pasos para ejecutar la aplicación

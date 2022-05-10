@@ -5,8 +5,10 @@ Aquí encontrarás el código correspondiente al frontend y al backend de nuestr
 El frontend está hecho con React y el backend con SpringBoot (Java).
 
 ## Pasos para ejecutar la aplicación
-Para ejecutar el proyecto se deben de seguir los siguientes pasos:
-1- En el terminal dentro del frontend: yarn start.
+Para ejecutar el proyecto se deben de seguir los siguientes pasos:  
+
+1- En el terminal dentro del frontend: yarn start.  
+
 2- Ejecutar la aplicación SpringBoot.
 
 Estaremos encantados de recibir mejoras y/o contribuciones al repositorio!
